@@ -4,7 +4,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Built with Love](https://img.shields.io/badge/Built%20With-Love-red.svg)
 
-A high-performance geometric calculator built with Rust, demonstrating the power and safety of modern systems programming.
+After studying the Rust language, I decided to write my first app in it. I built a geometric calculator to implement concepts like traits and composition. 
+It is a simple program for beginners to learn basic syntax.
 
 ## ✨ Features
 
